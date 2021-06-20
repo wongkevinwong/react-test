@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wongkevinwong/react-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/wongkevinwong/react-test/static/js/main.685ce617.chunk.js",
+    "main.js.map": "/wongkevinwong/react-test/static/js/main.685ce617.chunk.js.map",
+    "runtime-main.js": "/wongkevinwong/react-test/static/js/runtime-main.e3fcd7c1.js",
+    "runtime-main.js.map": "/wongkevinwong/react-test/static/js/runtime-main.e3fcd7c1.js.map",
+    "static/js/2.d6e65463.chunk.js": "/wongkevinwong/react-test/static/js/2.d6e65463.chunk.js",
+    "static/js/2.d6e65463.chunk.js.map": "/wongkevinwong/react-test/static/js/2.d6e65463.chunk.js.map",
+    "static/js/3.c7ff5df9.chunk.js": "/wongkevinwong/react-test/static/js/3.c7ff5df9.chunk.js",
+    "static/js/3.c7ff5df9.chunk.js.map": "/wongkevinwong/react-test/static/js/3.c7ff5df9.chunk.js.map",
+    "index.html": "/wongkevinwong/react-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/wongkevinwong/react-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d6e65463.chunk.js.LICENSE.txt": "/wongkevinwong/react-test/static/js/2.d6e65463.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wongkevinwong/react-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3fcd7c1.js",
+    "static/js/2.d6e65463.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.685ce617.chunk.js"
+  ]
+}
